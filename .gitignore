@@ -1,0 +1,10 @@
+/.vscode/
+/.idea/
+/__pycache__/
+/database_csharp/bin/Debug/netcoreapp3.1
+/database_csharp/.vs/database_csharp
+/database_csharp/.vscode
+/database_csharp/obj
+/database_csharp/Config.txt
+/database_csharp_tests/obj
+/db*
